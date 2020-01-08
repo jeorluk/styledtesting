@@ -7,6 +7,7 @@ const LandingStyles = styled.div`
   height: 100vh;
   width: 100vw;
 
+  /*This input style overrides the input style in Card imported from ./Styles*/
   input {
     background: red;
   }
